@@ -1,0 +1,40 @@
+﻿<Window x:Class="Library_Management.ShowAll"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Library_Management"
+        mc:Ignorable="d"
+        Title="North Western University" Width="988.8" Height="602.2" ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Auto" MaxWidth="Infinity" MaxHeight="Infinity" Icon="Resources/North-Western-University-logo.jpg" ResizeMode="NoResize">
+    <Grid Background="#FFAFAAAA" Margin="10,10,20.2,0" Height="543" VerticalAlignment="Top">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="155*"/>
+            <RowDefinition Height="44*"/>
+            <RowDefinition Height="501*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="433*"/>
+            <ColumnDefinition Width="108*"/>
+            <ColumnDefinition Width="66*"/>
+            <ColumnDefinition Width="34*"/>
+            <ColumnDefinition Width="505.6"/>
+            <ColumnDefinition Width="48.8"/>
+        </Grid.ColumnDefinitions>
+        <Image Margin="3,-312,0,-4.8" Source="SkyPic.jpg" RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="6" HorizontalAlignment="Left" Width="949" Height="860" VerticalAlignment="Bottom" MaxWidth="Infinity" MaxHeight="Infinity" Grid.RowSpan="3">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0.08"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="0.799"/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <ScrollViewer CanContentScroll="True" VerticalScrollBarVisibility="Visible" x:Name="ScrollView" Margin="252,34,27,0" MinHeight="300" MinWidth="554" Foreground="#FF0EBDDF" Height="359" VerticalAlignment="Top" Grid.Row="1" Grid.ColumnSpan="6" Grid.RowSpan="2">
+            <DataGrid x:Name="textBlock" AutoGenerateColumns="True" Height="346" Width="658"/>
+        </ScrollViewer>
+        <Label Content="All Information:" HorizontalAlignment="Left" Margin="74,10,0,0" VerticalAlignment="Top" Width="388" FontSize="48" Foreground="#FF04CFF6" FontWeight="Bold" Grid.ColumnSpan="5"/>
+        <Button x:Name="button1" Content="Back" Margin="392.4,363.6,0.2,0" Click="ShowBack" FontSize="20" Foreground="#FF00B1FF" FontWeight="Bold" Background="#FF051018" RenderTransformOrigin="0.5,0.5" Grid.Column="4" Grid.Row="2" Height="25" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

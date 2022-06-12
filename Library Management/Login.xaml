@@ -1,0 +1,19 @@
+﻿<Window x:Class="Library_Management.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Library_Management"
+        mc:Ignorable="d"
+        Title="North Western University" Height="450" Width="800" Icon="Resources/North-Western-University-logo.jpg" ResizeMode="NoResize">
+    <Grid Background="Black">
+        <Image HorizontalAlignment="Left" Height="423" VerticalAlignment="Top" Width="792" Source="Resources/Final.jpg" Stretch="Fill"/>
+        <TextBox x:Name="textUser" HorizontalAlignment="Left" Height="23" Margin="551,58,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="182"/>
+        <Label Content="Username" HorizontalAlignment="Left" Margin="438,58,0,0" VerticalAlignment="Top" Background="#FF46A2B4" Foreground="{DynamicResource {x:Static SystemColors.ActiveCaptionTextBrushKey}}" Height="23" FontWeight="Bold"/>
+        <Label Content="Password" HorizontalAlignment="Left" Margin="443,114,0,0" VerticalAlignment="Top" HorizontalContentAlignment="Right" Background="#FF25ACC7" Foreground="{DynamicResource {x:Static SystemColors.ActiveCaptionTextBrushKey}}" Height="23" FontWeight="Bold"/>
+        <Button Content="Login" HorizontalAlignment="Left" Margin="707,153,0,0" VerticalAlignment="Top" Width="57" Background="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}" Foreground="#FF07EED9" FontWeight="Bold" FontFamily="Microsoft Sans Serif" Click="Button_Click" FontSize="18"/>
+        <Button Content="Forget Password!!!" HorizontalAlignment="Left" Margin="624,225,0,0" VerticalAlignment="Top" Background="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}" Foreground="#FFEAA6AD" FontWeight="Bold" FontFamily="Microsoft Sans Serif" FontSize="16" Width="140" Click="Button_Click_1"/>
+        <PasswordBox x:Name="textPass" HorizontalAlignment="Left" Margin="551,110,0,0" VerticalAlignment="Top" Height="27" Width="182" RenderTransformOrigin="0.782,-1.763"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,213 @@
+c:\users\jibon\onedrive\documents\visual studio 2015\Projects\Library Management\Library Management\bin\Debug\Library Management.exe.config
+c:\users\jibon\onedrive\documents\visual studio 2015\Projects\Library Management\Library Management\bin\Debug\Library Management.exe
+c:\users\jibon\onedrive\documents\visual studio 2015\Projects\Library Management\Library Management\bin\Debug\Library Management.pdb
+c:\users\jibon\onedrive\documents\visual studio 2015\Projects\Library Management\Library Management\obj\Debug\Library Management.csprojResolveAssemblyReference.cache
+c:\users\jibon\onedrive\documents\visual studio 2015\Projects\Library Management\Library Management\obj\Debug\MainWindow.g.cs
+c:\users\jibon\onedrive\documents\visual studio 2015\Projects\Library Management\Library Management\obj\Debug\App.g.cs
+c:\users\jibon\onedrive\documents\visual studio 2015\Projects\Library Management\Library Management\obj\Debug\Library Management_MarkupCompile.cache
+c:\users\jibon\onedrive\documents\visual studio 2015\Projects\Library Management\Library Management\obj\Debug\Library Management_MarkupCompile.lref
+c:\users\jibon\onedrive\documents\visual studio 2015\Projects\Library Management\Library Management\obj\Debug\MainWindow.baml
+c:\users\jibon\onedrive\documents\visual studio 2015\Projects\Library Management\Library Management\obj\Debug\Library Management.g.resources
+c:\users\jibon\onedrive\documents\visual studio 2015\Projects\Library Management\Library Management\obj\Debug\Library_Management.Properties.Resources.resources
+c:\users\jibon\onedrive\documents\visual studio 2015\Projects\Library Management\Library Management\obj\Debug\Library Management.csproj.GenerateResource.Cache
+c:\users\jibon\onedrive\documents\visual studio 2015\Projects\Library Management\Library Management\obj\Debug\Library Management.exe
+c:\users\jibon\onedrive\documents\visual studio 2015\Projects\Library Management\Library Management\obj\Debug\Library Management.pdb
+C:\Users\jibon\OneDrive\Documents\Visual Studio 2015\Projects\Library Management\Library Management\obj\Debug\Insert.g.cs
+C:\Users\jibon\OneDrive\Documents\Visual Studio 2015\Projects\Library Management\Library Management\obj\Debug\Insert.baml
+C:\Users\jibon\OneDrive\Documents\Visual Studio 2015\Projects\Library Management\Library Management\obj\Debug\Delete.g.cs
+C:\Users\jibon\OneDrive\Documents\Visual Studio 2015\Projects\Library Management\Library Management\obj\Debug\Delete.baml
+C:\Users\jibon\OneDrive\Documents\Visual Studio 2015\Projects\Library Management\Library Management\obj\Debug\Search.g.cs
+C:\Users\jibon\OneDrive\Documents\Visual Studio 2015\Projects\Library Management\Library Management\obj\Debug\Search.baml
+C:\Users\jibon\OneDrive\Documents\Visual Studio 2015\Projects\Library Management\Library Management\obj\Debug\Update.g.cs
+C:\Users\jibon\OneDrive\Documents\Visual Studio 2015\Projects\Library Management\Library Management\obj\Debug\Update.baml
+C:\Users\jibon\OneDrive\Documents\Visual Studio 2015\Projects\Library Management\Library Management\obj\Debug\ShowAll.g.cs
+C:\Users\jibon\OneDrive\Documents\Visual Studio 2015\Projects\Library Management\Library Management\obj\Debug\ShowAll.baml
+C:\Users\ZUBAER\Downloads\Compressed\Library Management\Library Management\Library Management\bin\Debug\Library Management.exe.config
+C:\Users\ZUBAER\Downloads\Compressed\Library Management\Library Management\Library Management\obj\Debug\Library Management.exe
+C:\Users\ZUBAER\Downloads\Compressed\Library Management\Library Management\Library Management\obj\Debug\Library Management.pdb
+C:\Users\ZUBAER\Downloads\Compressed\Library Management\Library Management\Library Management\bin\Debug\Library Management.exe
+C:\Users\ZUBAER\Downloads\Compressed\Library Management\Library Management\Library Management\bin\Debug\Library Management.pdb
+C:\Users\ZUBAER\Downloads\Compressed\Library Management\Library Management\Library Management\obj\Debug\Library Management.csprojResolveAssemblyReference.cache
+C:\Users\ZUBAER\Downloads\Compressed\Library Management\Library Management\Library Management\obj\Debug\Delete.g.cs
+C:\Users\ZUBAER\Downloads\Compressed\Library Management\Library Management\Library Management\obj\Debug\Insert.g.cs
+C:\Users\ZUBAER\Downloads\Compressed\Library Management\Library Management\Library Management\obj\Debug\MainWindow.g.cs
+C:\Users\ZUBAER\Downloads\Compressed\Library Management\Library Management\Library Management\obj\Debug\Search.g.cs
+C:\Users\ZUBAER\Downloads\Compressed\Library Management\Library Management\Library Management\obj\Debug\ShowAll.g.cs
+C:\Users\ZUBAER\Downloads\Compressed\Library Management\Library Management\Library Management\obj\Debug\Update.g.cs
+C:\Users\ZUBAER\Downloads\Compressed\Library Management\Library Management\Library Management\obj\Debug\App.g.cs
+C:\Users\ZUBAER\Downloads\Compressed\Library Management\Library Management\Library Management\obj\Debug\Library Management_MarkupCompile.cache
+C:\Users\ZUBAER\Downloads\Compressed\Library Management\Library Management\Library Management\obj\Debug\Library Management_MarkupCompile.lref
+C:\Users\ZUBAER\Downloads\Compressed\Library Management\Library Management\Library Management\obj\Debug\Delete.baml
+C:\Users\ZUBAER\Downloads\Compressed\Library Management\Library Management\Library Management\obj\Debug\Insert.baml
+C:\Users\ZUBAER\Downloads\Compressed\Library Management\Library Management\Library Management\obj\Debug\MainWindow.baml
+C:\Users\ZUBAER\Downloads\Compressed\Library Management\Library Management\Library Management\obj\Debug\Search.baml
+C:\Users\ZUBAER\Downloads\Compressed\Library Management\Library Management\Library Management\obj\Debug\ShowAll.baml
+C:\Users\ZUBAER\Downloads\Compressed\Library Management\Library Management\Library Management\obj\Debug\Update.baml
+C:\Users\ZUBAER\Downloads\Compressed\Library Management\Library Management\Library Management\obj\Debug\Library Management.g.resources
+C:\Users\ZUBAER\Downloads\Compressed\Library Management\Library Management\Library Management\obj\Debug\Library_Management.Properties.Resources.resources
+C:\Users\ZUBAER\Downloads\Compressed\Library Management\Library Management\Library Management\obj\Debug\Library Management.csproj.GenerateResource.Cache
+C:\Users\ZUBAER\Desktop\Library Management\Library Management\Library Management\bin\Debug\Library Management.exe.config
+C:\Users\ZUBAER\Desktop\Library Management\Library Management\Library Management\obj\Debug\Library Management.exe
+C:\Users\ZUBAER\Desktop\Library Management\Library Management\Library Management\obj\Debug\Library Management.pdb
+C:\Users\ZUBAER\Desktop\Library Management\Library Management\Library Management\bin\Debug\Library Management.exe
+C:\Users\ZUBAER\Desktop\Library Management\Library Management\Library Management\bin\Debug\Library Management.pdb
+C:\Users\ZUBAER\Desktop\Library Management\Library Management\Library Management\obj\Debug\Library Management.csprojResolveAssemblyReference.cache
+C:\Users\ZUBAER\Desktop\Library Management\Library Management\Library Management\obj\Debug\Delete.g.cs
+C:\Users\ZUBAER\Desktop\Library Management\Library Management\Library Management\obj\Debug\Insert.g.cs
+C:\Users\ZUBAER\Desktop\Library Management\Library Management\Library Management\obj\Debug\MainWindow.g.cs
+C:\Users\ZUBAER\Desktop\Library Management\Library Management\Library Management\obj\Debug\Search.g.cs
+C:\Users\ZUBAER\Desktop\Library Management\Library Management\Library Management\obj\Debug\ShowAll.g.cs
+C:\Users\ZUBAER\Desktop\Library Management\Library Management\Library Management\obj\Debug\Update.g.cs
+C:\Users\ZUBAER\Desktop\Library Management\Library Management\Library Management\obj\Debug\App.g.cs
+C:\Users\ZUBAER\Desktop\Library Management\Library Management\Library Management\obj\Debug\Library Management_MarkupCompile.cache
+C:\Users\ZUBAER\Desktop\Library Management\Library Management\Library Management\obj\Debug\Library Management_MarkupCompile.lref
+C:\Users\ZUBAER\Desktop\Library Management\Library Management\Library Management\obj\Debug\Delete.baml
+C:\Users\ZUBAER\Desktop\Library Management\Library Management\Library Management\obj\Debug\Insert.baml
+C:\Users\ZUBAER\Desktop\Library Management\Library Management\Library Management\obj\Debug\MainWindow.baml
+C:\Users\ZUBAER\Desktop\Library Management\Library Management\Library Management\obj\Debug\Search.baml
+C:\Users\ZUBAER\Desktop\Library Management\Library Management\Library Management\obj\Debug\ShowAll.baml
+C:\Users\ZUBAER\Desktop\Library Management\Library Management\Library Management\obj\Debug\Update.baml
+C:\Users\ZUBAER\Desktop\Library Management\Library Management\Library Management\obj\Debug\Library Management.g.resources
+C:\Users\ZUBAER\Desktop\Library Management\Library Management\Library Management\obj\Debug\Library_Management.Properties.Resources.resources
+C:\Users\ZUBAER\Desktop\Library Management\Library Management\Library Management\obj\Debug\Library Management.csproj.GenerateResource.Cache
+C:\Users\ZUBAER\Desktop\New folder\3.1 All C# Project\ID-20171077010 (Library Management)\Library Management\Library Management\bin\Debug\Library Management.exe.config
+C:\Users\ZUBAER\Desktop\New folder\3.1 All C# Project\ID-20171077010 (Library Management)\Library Management\Library Management\obj\Debug\Library Management.exe
+C:\Users\ZUBAER\Desktop\New folder\3.1 All C# Project\ID-20171077010 (Library Management)\Library Management\Library Management\obj\Debug\Library Management.pdb
+E:\Visual studioProject\3.1 B_All C# Project_Submit\ID-20171077010 (Library Management)\Library Management\Library Management\bin\Debug\Library Management.exe.config
+E:\Visual studioProject\3.1 B_All C# Project_Submit\ID-20171077010 (Library Management)\Library Management\Library Management\obj\Debug\Library Management.exe
+E:\Visual studioProject\3.1 B_All C# Project_Submit\ID-20171077010 (Library Management)\Library Management\Library Management\obj\Debug\Library Management.pdb
+E:\Visual studioProject\3.1 B_All C# Project_Submit\ID-20171077010 (Library Management)\Library Management\Library Management\bin\Debug\Library Management.exe
+E:\Visual studioProject\3.1 B_All C# Project_Submit\ID-20171077010 (Library Management)\Library Management\Library Management\bin\Debug\Library Management.pdb
+E:\Visual studioProject\3.1 B_All C# Project_Submit\ID-20171077010 (Library Management)\Library Management\Library Management\obj\Debug\Library Management.csprojAssemblyReference.cache
+E:\Visual studioProject\3.1 B_All C# Project_Submit\ID-20171077010 (Library Management)\Library Management\Library Management\obj\Debug\Delete.g.cs
+E:\Visual studioProject\3.1 B_All C# Project_Submit\ID-20171077010 (Library Management)\Library Management\Library Management\obj\Debug\Insert.g.cs
+E:\Visual studioProject\3.1 B_All C# Project_Submit\ID-20171077010 (Library Management)\Library Management\Library Management\obj\Debug\MainWindow.g.cs
+E:\Visual studioProject\3.1 B_All C# Project_Submit\ID-20171077010 (Library Management)\Library Management\Library Management\obj\Debug\Search.g.cs
+E:\Visual studioProject\3.1 B_All C# Project_Submit\ID-20171077010 (Library Management)\Library Management\Library Management\obj\Debug\ShowAll.g.cs
+E:\Visual studioProject\3.1 B_All C# Project_Submit\ID-20171077010 (Library Management)\Library Management\Library Management\obj\Debug\Update.g.cs
+E:\Visual studioProject\3.1 B_All C# Project_Submit\ID-20171077010 (Library Management)\Library Management\Library Management\obj\Debug\App.g.cs
+E:\Visual studioProject\3.1 B_All C# Project_Submit\ID-20171077010 (Library Management)\Library Management\Library Management\obj\Debug\Library Management_MarkupCompile.cache
+E:\Visual studioProject\3.1 B_All C# Project_Submit\ID-20171077010 (Library Management)\Library Management\Library Management\obj\Debug\Library Management_MarkupCompile.lref
+E:\Visual studioProject\3.1 B_All C# Project_Submit\ID-20171077010 (Library Management)\Library Management\Library Management\obj\Debug\Delete.baml
+E:\Visual studioProject\3.1 B_All C# Project_Submit\ID-20171077010 (Library Management)\Library Management\Library Management\obj\Debug\Insert.baml
+E:\Visual studioProject\3.1 B_All C# Project_Submit\ID-20171077010 (Library Management)\Library Management\Library Management\obj\Debug\MainWindow.baml
+E:\Visual studioProject\3.1 B_All C# Project_Submit\ID-20171077010 (Library Management)\Library Management\Library Management\obj\Debug\Search.baml
+E:\Visual studioProject\3.1 B_All C# Project_Submit\ID-20171077010 (Library Management)\Library Management\Library Management\obj\Debug\ShowAll.baml
+E:\Visual studioProject\3.1 B_All C# Project_Submit\ID-20171077010 (Library Management)\Library Management\Library Management\obj\Debug\Update.baml
+E:\Visual studioProject\3.1 B_All C# Project_Submit\ID-20171077010 (Library Management)\Library Management\Library Management\obj\Debug\Library Management.g.resources
+E:\Visual studioProject\3.1 B_All C# Project_Submit\ID-20171077010 (Library Management)\Library Management\Library Management\obj\Debug\Library_Management.Properties.Resources.resources
+E:\Visual studioProject\3.1 B_All C# Project_Submit\ID-20171077010 (Library Management)\Library Management\Library Management\obj\Debug\Library Management.csproj.GenerateResource.cache
+E:\Visual studioProject\3.1 B_All C# Project_Submit\ID-20171077010 (Library Management)\Library Management\Library Management\obj\Debug\Library Management.csproj.CoreCompileInputs.cache
+E:\ThesisProject\Library Management\Library Management\bin\Debug\Library Management.exe.config
+E:\ThesisProject\Library Management\Library Management\bin\Debug\Library Management.exe
+E:\ThesisProject\Library Management\Library Management\bin\Debug\Library Management.pdb
+E:\ThesisProject\Library Management\Library Management\obj\Debug\Library Management.csprojAssemblyReference.cache
+E:\ThesisProject\Library Management\Library Management\obj\Debug\Delete.g.cs
+E:\ThesisProject\Library Management\Library Management\obj\Debug\Insert.g.cs
+E:\ThesisProject\Library Management\Library Management\obj\Debug\MainWindow.g.cs
+E:\ThesisProject\Library Management\Library Management\obj\Debug\Search.g.cs
+E:\ThesisProject\Library Management\Library Management\obj\Debug\ShowAll.g.cs
+E:\ThesisProject\Library Management\Library Management\obj\Debug\Update.g.cs
+E:\ThesisProject\Library Management\Library Management\obj\Debug\App.g.cs
+E:\ThesisProject\Library Management\Library Management\obj\Debug\Library Management_MarkupCompile.cache
+E:\ThesisProject\Library Management\Library Management\obj\Debug\Library Management_MarkupCompile.lref
+E:\ThesisProject\Library Management\Library Management\obj\Debug\Delete.baml
+E:\ThesisProject\Library Management\Library Management\obj\Debug\Insert.baml
+E:\ThesisProject\Library Management\Library Management\obj\Debug\MainWindow.baml
+E:\ThesisProject\Library Management\Library Management\obj\Debug\Search.baml
+E:\ThesisProject\Library Management\Library Management\obj\Debug\ShowAll.baml
+E:\ThesisProject\Library Management\Library Management\obj\Debug\Update.baml
+E:\ThesisProject\Library Management\Library Management\obj\Debug\Library Management.g.resources
+E:\ThesisProject\Library Management\Library Management\obj\Debug\Library_Management.Properties.Resources.resources
+E:\ThesisProject\Library Management\Library Management\obj\Debug\Library Management.csproj.GenerateResource.cache
+E:\ThesisProject\Library Management\Library Management\obj\Debug\Library Management.csproj.CoreCompileInputs.cache
+E:\ThesisProject\Library Management\Library Management\obj\Debug\Library Management.exe
+E:\ThesisProject\Library Management\Library Management\obj\Debug\Library Management.pdb
+E:\ThesisProject\Library Management\Library Management\obj\Debug\Library_Management.LogIn.resources
+C:\Users\ABRARFAHIM\Downloads\Library Management(3)\Library Management\Library Management\bin\Debug\Library Management.exe.config
+C:\Users\ABRARFAHIM\Downloads\Library Management(3)\Library Management\Library Management\bin\Debug\Library Management.exe
+C:\Users\ABRARFAHIM\Downloads\Library Management(3)\Library Management\Library Management\bin\Debug\Library Management.pdb
+C:\Users\ABRARFAHIM\Downloads\Library Management(3)\Library Management\Library Management\obj\Debug\Delete.g.cs
+C:\Users\ABRARFAHIM\Downloads\Library Management(3)\Library Management\Library Management\obj\Debug\Insert.g.cs
+C:\Users\ABRARFAHIM\Downloads\Library Management(3)\Library Management\Library Management\obj\Debug\MainWindow.g.cs
+C:\Users\ABRARFAHIM\Downloads\Library Management(3)\Library Management\Library Management\obj\Debug\Search.g.cs
+C:\Users\ABRARFAHIM\Downloads\Library Management(3)\Library Management\Library Management\obj\Debug\ShowAll.g.cs
+C:\Users\ABRARFAHIM\Downloads\Library Management(3)\Library Management\Library Management\obj\Debug\Update.g.cs
+C:\Users\ABRARFAHIM\Downloads\Library Management(3)\Library Management\Library Management\obj\Debug\Login.g.cs
+C:\Users\ABRARFAHIM\Downloads\Library Management(3)\Library Management\Library Management\obj\Debug\App.g.cs
+C:\Users\ABRARFAHIM\Downloads\Library Management(3)\Library Management\Library Management\obj\Debug\Library Management_MarkupCompile.cache
+C:\Users\ABRARFAHIM\Downloads\Library Management(3)\Library Management\Library Management\obj\Debug\Library Management_MarkupCompile.lref
+C:\Users\ABRARFAHIM\Downloads\Library Management(3)\Library Management\Library Management\obj\Debug\Delete.baml
+C:\Users\ABRARFAHIM\Downloads\Library Management(3)\Library Management\Library Management\obj\Debug\Insert.baml
+C:\Users\ABRARFAHIM\Downloads\Library Management(3)\Library Management\Library Management\obj\Debug\MainWindow.baml
+C:\Users\ABRARFAHIM\Downloads\Library Management(3)\Library Management\Library Management\obj\Debug\Search.baml
+C:\Users\ABRARFAHIM\Downloads\Library Management(3)\Library Management\Library Management\obj\Debug\ShowAll.baml
+C:\Users\ABRARFAHIM\Downloads\Library Management(3)\Library Management\Library Management\obj\Debug\Update.baml
+C:\Users\ABRARFAHIM\Downloads\Library Management(3)\Library Management\Library Management\obj\Debug\Login.baml
+C:\Users\ABRARFAHIM\Downloads\Library Management(3)\Library Management\Library Management\obj\Debug\Library Management.g.resources
+C:\Users\ABRARFAHIM\Downloads\Library Management(3)\Library Management\Library Management\obj\Debug\Library_Management.LogIn.resources
+C:\Users\ABRARFAHIM\Downloads\Library Management(3)\Library Management\Library Management\obj\Debug\Library_Management.Properties.Resources.resources
+C:\Users\ABRARFAHIM\Downloads\Library Management(3)\Library Management\Library Management\obj\Debug\Library Management.csproj.GenerateResource.cache
+C:\Users\ABRARFAHIM\Downloads\Library Management(3)\Library Management\Library Management\obj\Debug\Library Management.csproj.CoreCompileInputs.cache
+C:\Users\ABRARFAHIM\Downloads\Library Management(3)\Library Management\Library Management\obj\Debug\Library Management.exe
+C:\Users\ABRARFAHIM\Downloads\Library Management(3)\Library Management\Library Management\obj\Debug\Library Management.pdb
+E:\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\bin\Debug\Library Management.exe.config
+E:\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\bin\Debug\Library Management.exe
+E:\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\bin\Debug\Library Management.pdb
+E:\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Library Management.csprojAssemblyReference.cache
+E:\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Delete.g.cs
+E:\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Insert.g.cs
+E:\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\MainWindow.g.cs
+E:\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Search.g.cs
+E:\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\ShowAll.g.cs
+E:\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Update.g.cs
+E:\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Login.g.cs
+E:\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\App.g.cs
+E:\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Library Management_MarkupCompile.cache
+E:\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Library Management_MarkupCompile.lref
+E:\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Delete.baml
+E:\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Insert.baml
+E:\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\MainWindow.baml
+E:\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Search.baml
+E:\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\ShowAll.baml
+E:\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Update.baml
+E:\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Login.baml
+E:\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Library Management.g.resources
+E:\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Library_Management.LogIn.resources
+E:\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Library_Management.Properties.Resources.resources
+E:\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Library Management.csproj.GenerateResource.cache
+E:\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Library Management.csproj.CoreCompileInputs.cache
+E:\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Library Management.exe
+E:\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Library Management.pdb
+E:\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\ForgetPassword.g.cs
+E:\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\ForgetPassword.baml
+E:\ThesisProject\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\bin\Debug\Library Management.exe.config
+E:\ThesisProject\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\bin\Debug\Library Management.exe
+E:\ThesisProject\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\bin\Debug\Library Management.pdb
+E:\ThesisProject\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Library Management.csprojAssemblyReference.cache
+E:\ThesisProject\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Delete.g.cs
+E:\ThesisProject\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\ForgetPassword.g.cs
+E:\ThesisProject\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Insert.g.cs
+E:\ThesisProject\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\MainWindow.g.cs
+E:\ThesisProject\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Search.g.cs
+E:\ThesisProject\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\ShowAll.g.cs
+E:\ThesisProject\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Update.g.cs
+E:\ThesisProject\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Login.g.cs
+E:\ThesisProject\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\App.g.cs
+E:\ThesisProject\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Library Management_MarkupCompile.cache
+E:\ThesisProject\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Library Management_MarkupCompile.lref
+E:\ThesisProject\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Delete.baml
+E:\ThesisProject\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\ForgetPassword.baml
+E:\ThesisProject\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Insert.baml
+E:\ThesisProject\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\MainWindow.baml
+E:\ThesisProject\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Search.baml
+E:\ThesisProject\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\ShowAll.baml
+E:\ThesisProject\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Update.baml
+E:\ThesisProject\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Login.baml
+E:\ThesisProject\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Library Management.g.resources
+E:\ThesisProject\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Library_Management.LogIn.resources
+E:\ThesisProject\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Library_Management.Properties.Resources.resources
+E:\ThesisProject\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Library Management.csproj.GenerateResource.cache
+E:\ThesisProject\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Library Management.csproj.CoreCompileInputs.cache
+E:\ThesisProject\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Library Management.exe
+E:\ThesisProject\ThesisProject\Library Management-addedLogin\Library Management(3)\Library Management\Library Management\obj\Debug\Library Management.pdb
